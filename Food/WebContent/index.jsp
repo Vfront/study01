@@ -13,6 +13,10 @@
 	<a href="insertForm.do">음식정보입력</a>
 	<a href="selectList.do">음식 목록</a>
 	test2222추가추가!!
+	
+	
+	
+	<%-- 수정!!!!!!!! --%>
 </div>
 </body>
 </html>
