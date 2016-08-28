@@ -20,6 +20,7 @@
 	
 	나도 수정해볼께!!!
 	I want to make edit 16:16
+	is edit possible?
 	<%-- 수정!!!!!!!! --%>
 </div>
 </body>
